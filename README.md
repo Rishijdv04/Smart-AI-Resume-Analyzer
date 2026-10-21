@@ -1,5 +1,5 @@
 <p><small>Best View in <a href="https://github.com/settings/appearance">Dark Mode</a> (Recommended)</small></p><br/>
-<img src="https://socialify.git.ci/Rishijdv04/Smart-AI-Resume-Analyzer/image?custom_description=6th+Sem+Final+Year+Project+at+Parul+University+%282024-2025%29&description=1&font=Bitter&language=1&name=1&pattern=Circuit+Board&stargazers=1&theme=Dark&pattern=Transparent" alt="Smart-AI-Resume-Analyzer" width="1150" />
+<img src="https://socialify.git.ci/Rishijdv04/Smart-AI-Resume-Analyzer/image?custom_description=AI-Powered+Resume+Analysis+and+Resume+Building+Platform&description=1&font=Bitter&language=1&name=1&pattern=Circuit+Board&stargazers=1&theme=Dark&pattern=Transparent" alt="Smart-AI-Resume-Analyzer" width="1150" />
 <div align="center">
 
 # 🏝️ Smart AI Resume Analyzer 🏝️
@@ -42,7 +42,7 @@
     <span> · </span>
     <a href="#-setup-in-minutes">Set-Up (Installation)</a>
     <span> · </span>
-    <a href="https://github.com/Rishijdv04/Smart-AI-Resume-Analyzer/issues %2025)&body=Here%20Are%20My%20Details%20%F0%9F%98%89%0D%0A%0D%0AOrganization%2FCollege%20Name%3A%20%0D%0A%0D%0AFull%20Name%3A%20%0D%0A%0D%0AGitHub%20Profile%20%3A%20%0D%0A%0D%0AFrom%20where%20did%20you%20get%20to%20know%20about%20this%20project%3A%0D%0A%0D%0APurpose%20of%20asking%20project%20report%20(describe)%3A%0D%0A%0D%0A%0D%0AIf%20the%20above%20information%20satisfy%20your%20identity%20you%20will%20get%20the%20report%20to%20your%20email.">Project Report</a>
+    <a href="https://github.com/Rishijdv04/Smart-AI-Resume-Analyzer/issues">Project Support</a>
   </h4>
   <p>
     <small align="justify">
@@ -50,7 +50,6 @@
       <a href="https://www.linkedin.com/in/rishi-jadhav-02abbb25b">Rishi Jadhav</a>
      </small>
   </p>
- 
 
 ## 🔗 **Helpful Links**
 - [![Streamlit Badge](https://img.shields.io/badge/Live%20Demo-Streamlit-orange?style=for-the-badge&logo=streamlit&logoColor=white)](https://resumind.streamlit.app/)
@@ -79,6 +78,7 @@ Get real-time feedback, boost your resume's impact, and maximize your chances of
 ## <img src="https://github.com/user-attachments/assets/e5ac1371-6ac4-48b6-b95c-5ef9afaf1353" width="30"> **Live Demo**
 👨‍💻 Try it Now: [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://resumind.streamlit.app/)
 ## <img src="https://github.com/user-attachments/assets/0cefad05-58a9-4aa0-a070-f75a0c9b0353" height="32px">  Tech Stack
+## <img src="https://github.com/user-attachments/assets/0cefad05-58a9-4aa0-a070-f75a0c9b0353" height="32px">  Tech Stack
 <details>
   <summary>🌐 Frontend</summary>
 | **🌟 Technology**    | **💼 Role**                                                             |
@@ -450,6 +450,3 @@ Explore the code, contribute, or drop a <img src="https://github.com/user-attach
 - 🤝 Contribute by submitting a pull request.
 
 Thank you for supporting this project! 🌈✨
-# Smart-AI-Resume-Analyzer
-Major Project
-\
